@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Program</name>
+    </assembly>
+    <members>
+        <member name="T:RedirectTool.Program">
+            <summary>
+            Redirect Builder main executable file</summary>
+            <remarks>
+            Generates an executable for our Redirect Builder Program</remarks>
+        </member>
+        <member name="M:RedirectTool.Program.Main(System.String[])">
+            <summary>
+            The entry point for the application.
+            </summary>
+            <param name="args"> A list of command line arguments</param>
+        </member>
+        <member name="T:RedirectTool.RedirectBuilder">
+            <summary>
+            This tool extracts 301 and 302 redirects from an .htaccess file and builds hard webpages instead </summary>
+            <remarks>
+            For use in converting a website from an Apache server to IIS</remarks>
+        </member>
+        <member name="F:RedirectTool.RedirectBuilder.redirectsList">
+            <summary>
+            List that will hold the initial values from .htaccess</summary>
+        </member>
+        <member name="M:RedirectTool.RedirectBuilder.ReadFile(System.String)">
+            <summary>
+            ReadFile opens the .htaccess file and extracts 301 and 302 redirects.</summary>
+            <param name="fileName">Name of the .htaccess file to open</param>
+            <remarks>
+            For use in converting a website from an Apache server to IIS</remarks>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+C:\Users\jmorg2x\AppData\Local\Temporary Projects\RedirectTool\bin\Debug\RedirectTool.exe
+C:\Users\jmorg2x\AppData\Local\Temporary Projects\RedirectTool\bin\Debug\RedirectTool.pdb
+C:\Users\jmorg2x\AppData\Local\Temporary Projects\RedirectTool\obj\x86\Debug\RedirectTool.exe
+C:\Users\jmorg2x\AppData\Local\Temporary Projects\RedirectTool\obj\x86\Debug\RedirectTool.pdb
+C:\Users\jmorg2x\documents\visual studio 2010\Projects\RedirectTool\RedirectTool\obj\x86\Debug\RedirectTool.csprojResolveAssemblyReference.cache
+C:\Users\jmorg2x\documents\visual studio 2010\Projects\RedirectTool\RedirectTool\bin\Debug\.htaccess
+C:\Users\jmorg2x\documents\visual studio 2010\Projects\RedirectTool\RedirectTool\bin\Debug\ERC.exe.config
+C:\Users\jmorg2x\documents\visual studio 2010\Projects\RedirectTool\RedirectTool\bin\Debug\ERC.exe
+C:\Users\jmorg2x\documents\visual studio 2010\Projects\RedirectTool\RedirectTool\bin\Debug\ERC.pdb
+C:\Users\jmorg2x\documents\visual studio 2010\Projects\RedirectTool\RedirectTool\obj\x86\Debug\ERC.exe
+C:\Users\jmorg2x\documents\visual studio 2010\Projects\RedirectTool\RedirectTool\obj\x86\Debug\ERC.pdb
